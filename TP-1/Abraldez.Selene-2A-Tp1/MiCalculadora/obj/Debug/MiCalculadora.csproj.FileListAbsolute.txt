@@ -1,0 +1,42 @@
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.exe
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.exe.config
+D:\Escritorio\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\TP1\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.exe
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\bin\Debug\Entidades.exe.config
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Escritorio\Facultad\Prog y Labo\Tp-1\Abraldez.Selene-2A-Tp1\MiCalculadora\obj\Debug\MiCalculadora.pdb
