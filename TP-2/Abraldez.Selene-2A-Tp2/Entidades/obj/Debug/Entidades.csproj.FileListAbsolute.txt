@@ -1,0 +1,19 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\Entidades\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\Entidades\obj\Debug\Entidades.dll
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\Entidades\obj\Debug\Entidades.pdb
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\Entidades\bin\Debug\Entidades.dll
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\Entidades\bin\Debug\Entidades.pdb

@@ -1,0 +1,30 @@
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.exe
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\TP-02.pdb
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.dll
+D:\VisualStudio\Federico Dávila\TP-02\TP-02\bin\Debug\Entidades.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\bin\Debug\TP-02.exe.config
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.exe
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.pdb
+D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\TP-02\obj\Debug\TP-02.csprojResolveAssemblyReference.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\obj\Debug\TP-02.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\obj\Debug\TP-02.exe
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\bin\Debug\TP-02.exe.config
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\bin\Debug\TP-02.exe
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\bin\Debug\TP-02.pdb
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\bin\Debug\Entidades.dll
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\bin\Debug\Entidades.pdb
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\3-TPs\Tp-2\Abraldez.Selene-2A-Tp2\TP-02\obj\Debug\TP-02.pdb
