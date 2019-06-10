@@ -1,0 +1,17 @@
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\bin\Debug\netstandard2.0\Excepciones.deps.json
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\bin\Debug\netstandard2.0\Excepciones.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\bin\Debug\netstandard2.0\Excepciones.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfoInputs.cache
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfo.cs
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\bin\Debug\netstandard2.0\Excepciones.deps.json
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\bin\Debug\netstandard2.0\Excepciones.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\bin\Debug\netstandard2.0\Excepciones.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.csprojAssemblyReference.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfoInputs.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.AssemblyInfo.cs
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Excepciones\obj\Debug\netstandard2.0\Excepciones.pdb
