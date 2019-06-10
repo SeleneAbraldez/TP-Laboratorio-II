@@ -1,0 +1,48 @@
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.deps.json
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csprojAssemblyReference.cache
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfoInputs.cache
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfo.cs
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CopyComplete
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.deps.json
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csprojAssemblyReference.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfoInputs.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfo.cs
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CopyComplete
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.deps.json
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesInstanciables.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Archivos.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\EntidadesAbstractas.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\bin\Debug\netstandard2.0\Excepciones.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csprojAssemblyReference.cache
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfoInputs.cache
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.AssemblyInfo.cs
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.csproj.CopyComplete
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\EntidadesInstanciables\obj\Debug\netstandard2.0\EntidadesInstanciables.pdb

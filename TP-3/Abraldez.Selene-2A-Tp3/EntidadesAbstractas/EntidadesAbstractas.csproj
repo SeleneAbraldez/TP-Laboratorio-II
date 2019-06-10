@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Excepciones">
+      <HintPath>..\Excepciones\bin\Debug\netstandard2.0\Excepciones.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
