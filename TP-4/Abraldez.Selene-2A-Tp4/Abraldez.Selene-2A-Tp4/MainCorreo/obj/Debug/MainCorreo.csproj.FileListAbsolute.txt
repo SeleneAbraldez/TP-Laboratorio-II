@@ -1,0 +1,14 @@
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\Entidades.dll
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\Entidades.pdb
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.pdb
+D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\Entidades.dll.config
