@@ -46,7 +46,6 @@
             this.rtbMostrar = new System.Windows.Forms.RichTextBox();
             this.cmsListas = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.mostrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.enviar5ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.cmsListas.SuspendLayout();
@@ -89,6 +88,7 @@
             // 
             // lstEstadoEntregado
             // 
+            this.lstEstadoEntregado.ContextMenuStrip = this.cmsListas;
             this.lstEstadoEntregado.FormattingEnabled = true;
             this.lstEstadoEntregado.Location = new System.Drawing.Point(363, 32);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";
@@ -198,10 +198,9 @@
             // cmsListas
             // 
             this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mostrarToolStripMenuItem,
-            this.enviar5ToolStripMenuItem});
+            this.mostrarToolStripMenuItem});
             this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(116, 48);
+            this.cmsListas.Size = new System.Drawing.Size(116, 26);
             // 
             // mostrarToolStripMenuItem
             // 
@@ -209,11 +208,6 @@
             this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             this.mostrarToolStripMenuItem.Text = "Mostrar";
             this.mostrarToolStripMenuItem.Click += new System.EventHandler(this.MostrarToolStripMenuItem_Click);
-            // 
-            // enviar5ToolStripMenuItem
-            // 
-            this.enviar5ToolStripMenuItem.Name = "enviar5ToolStripMenuItem";
-            this.enviar5ToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
             // 
             // FrmPpal
             // 
@@ -255,7 +249,6 @@
         private System.Windows.Forms.RichTextBox rtbMostrar;
         private System.Windows.Forms.ContextMenuStrip cmsListas;
         private System.Windows.Forms.ToolStripMenuItem mostrarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem enviar5ToolStripMenuItem;
     }
 }
 

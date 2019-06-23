@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\selene\\Desktop\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj": {}
+    "D:\\selene\\Documents\\Gits\\Tp-Labo2\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj": {}
   },
   "projects": {
-    "D:\\selene\\Desktop\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj": {
+    "D:\\selene\\Documents\\Gits\\Tp-Labo2\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\selene\\Desktop\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj",
+        "projectUniqueName": "D:\\selene\\Documents\\Gits\\Tp-Labo2\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj",
         "projectName": "UniTest1",
-        "projectPath": "D:\\selene\\Desktop\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj",
+        "projectPath": "D:\\selene\\Documents\\Gits\\Tp-Labo2\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\UniTest1.csproj",
         "packagesPath": "C:\\Users\\selene\\.nuget\\packages\\",
-        "outputPath": "D:\\selene\\Desktop\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\obj\\",
+        "outputPath": "D:\\selene\\Documents\\Gits\\Tp-Labo2\\TP-4\\Abraldez.Selene-2A-Tp4\\Abraldez.Selene-2A-Tp4\\UniTest1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

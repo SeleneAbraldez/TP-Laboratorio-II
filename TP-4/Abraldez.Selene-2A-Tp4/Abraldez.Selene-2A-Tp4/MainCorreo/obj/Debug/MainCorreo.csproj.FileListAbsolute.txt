@@ -12,3 +12,17 @@ D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\
 D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.exe
 D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.pdb
 D:\selene\Desktop\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\Entidades.dll.config
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\MainCorreo.exe.config
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\MainCorreo.exe
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\MainCorreo.pdb
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\Entidades.dll
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\Entidades.pdb
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\bin\Debug\Entidades.dll.config
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csproj.CoreCompileInputs.cache
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.exe
+D:\selene\Documents\Gits\Tp-Labo2\TP-4\Abraldez.Selene-2A-Tp4\Abraldez.Selene-2A-Tp4\MainCorreo\obj\Debug\MainCorreo.pdb
