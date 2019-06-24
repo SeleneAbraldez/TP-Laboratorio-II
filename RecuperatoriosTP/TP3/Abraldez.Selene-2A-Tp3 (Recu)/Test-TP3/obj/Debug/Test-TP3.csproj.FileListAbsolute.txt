@@ -1,0 +1,64 @@
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe.config
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.dll
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.pdb
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csprojAssemblyReference.cache
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CopyComplete
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.exe
+D:\selene\Desktop\Tp-3\Abraldez.Selene-2A-Tp3 - copia\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe.config
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.dll
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.pdb
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csprojAssemblyReference.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CopyComplete
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.exe
+D:\selene\Desktop\Tp-33\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe.config
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.dll
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.pdb
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csprojAssemblyReference.cache
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CopyComplete
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.exe
+D:\selene\Desktop\ghjklñ\TP-3\Abraldez.Selene-2A-Tp3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.pdb
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe.config
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.exe
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Test-TP3.pdb
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.dll
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.dll
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.dll
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.dll
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesAbstractas.pdb
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\EntidadesInstanciables.pdb
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Excepciones.pdb
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\bin\Debug\Archivos.pdb
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csprojAssemblyReference.cache
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.csproj.CopyComplete
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.exe
+D:\selene\Desktop\RecuperatoriosTp\TP3\Abraldez.Selene-2A-Tp3\Test-TP3\obj\Debug\Test-TP3.pdb
